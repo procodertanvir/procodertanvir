@@ -1,8 +1,6 @@
-![Web Learner](https://media-exp1.licdn.com/dms/image/C4D03AQG4LTK7KvZX2w/profile-displayphoto-shrink_400_400/0/1607592290787?e=1635984000&v=beta&t=72G5X9aHr3iBXaLOzxz5XUSotVumXfHOCxtyPwa0A7A)
-
-# Hi there 👋, I'm Tanvir Hossain
-### Web Learner
-
+### Hi there 👋, I'm Tanvir Hossain
+#### Web Learner
+![Web Learner](https://static1.s123-cdn-static-a.com/ready_uploads/media/208103/2000_5ceed7808ad2c.jpg)
 
 I'm Full-stack Web Learner. I love to code. I'm learning how to create a website user friendly and customize anyone. I have a passion for learning and working in this category. Most of the time, I'm learning new things to better my works so that every clients satisfied by me.
 Moreover, I enjoy working with include HTML5, CSS3 as well as Bootstrap5.
@@ -24,7 +22,8 @@ Skills: HTML / CSS / Bootstrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procodertanvir)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=procodertanvir&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=procodertanvir)  
 
