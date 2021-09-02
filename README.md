@@ -2,7 +2,7 @@
 ## Web Learner
 ![Web Learner](https://media-exp1.licdn.com/dms/image/C4D03AQG4LTK7KvZX2w/profile-displayphoto-shrink_400_400/0/1607592290787?e=1635984000&v=beta&t=72G5X9aHr3iBXaLOzxz5XUSotVumXfHOCxtyPwa0A7A)
 
-I'm Full-stack Web Learner. I love to code. I'm learning how to create a website user friendly and customize anyone. I have a passion for learning and working in this category. Most of the time, I'm learning new things to better my works so that every clients satisfied by me.
+I'm Full-stack Web Learner. I love to code. I'm learning how to create a website user friendly and customized by anyone. I have a passion for learning and working in this category. Most of the time, I'm learning new things to better my works so that every clients satisfied by me.
 Moreover, I enjoy working with include HTML5, CSS3 as well as Bootstrap5.
 
 Skills: HTML / CSS / Bootstrap
